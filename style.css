@@ -1,6 +1,8 @@
 *{
     font-family:'Courier New', Courier, monospace;
-    padding: 15px;
+}
+body, h1, h2, h3{
+    padding:15px;
 }
 h1{
     background-color:black;
